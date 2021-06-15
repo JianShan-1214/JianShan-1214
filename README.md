@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shan</h1>
 <h3 align="center">A student from Taiwan</h3>
 
--   🔭 I'm working on a project that about [Gin](https://github.com/JianShan-1214/go_api)
+-   🔭 I'm working on a project that about [Gin](https://github.com/JianShan-1214/login_API/)
 
 -   🌱 I'm learning that everything that makes me interesting 
   
