@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shan</h1>
 <h3 align="center">A student from Taiwan</h3>
 
-- 🔭 I’m currently working on [go-api](https://github.com/JianShan-1214/go_api)
+- 🔭 I’m working on new project that a [Login Auth](https://github.com/JianShan-1214/go_api)
 
-- 🌱 I’m currently learning **Everything that make me interesting**
+- 🌱 I'm learning that everything that makes me interesting **Everything that make me interesting**
 
 
 <h3 align="left">Languages and Tools:</h3>
