@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm Shan</h1>
-<h3 align="center">A student from Taiwan</h3>
-
--   🔭 I'm working on a project that about [Gin](https://github.com/JianShan-1214/login_API/)
-
--   🌱 I'm learning that everything that makes me interesting 
-  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> 
