@@ -2,7 +2,7 @@
 
 <p align="center">
   <kbd>
-  <img  height="165" src="https://github-readme-stats.vercel.app/api?username=jianshan-1214&show_icons=true&locale=en&hide_border=true&text_color=58ffb1&bg_color=00000000" alt="jianshan-1214" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jianshan-1214&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true&text_color=58ffb1" alt="jianshan-1214" />
+  <img  height="165" src="https://github-readme-stats.vercel.app/api?username=jianshan-1214&show_icons=true&locale=en&hide_border=true&text_color=94B4FF&bg_color=00000000" alt="jianshan-1214" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jianshan-1214&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true&text_color=94B4FF" alt="jianshan-1214" />
   </kbd>
 </p>
 
